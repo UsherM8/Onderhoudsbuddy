@@ -15,9 +15,9 @@ import java.util.UUID;
 @Builder
 public class ReminderEntity {
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(length = 100, nullable = false)
-    private UUID reminderId;
+    private Integer reminderId;
     @Column(length = 100, nullable = false)
     private String message;
     @Column(length = 100, nullable = false)

@@ -39,10 +39,14 @@ public class UserController {
     }
 
     @GetMapping("/{id}")
-    public ResponseEntity<UserResponse> getUserById(@PathVariable UUID id) {
+    public ResponseEntity<UserResponse> getUserById(@PathVariable Integer id) {
         UserDto user = userService.getUserById(id);
+        if (user == null) {
+            return ResponseEntity.notFound().build();
+        }
         return ResponseEntity.ok(mapToResponse(user));
     }
+
 
     @PostMapping
     public ResponseEntity<UserResponse> createUser(@RequestBody CreateUserRequest request) {
@@ -66,7 +70,7 @@ public class UserController {
     }
 
     @DeleteMapping("/{id}")
-    public ResponseEntity<UserResponse> deleteUser(@RequestBody UUID id) {
+    public ResponseEntity<UserResponse> deleteUser(@RequestBody int id) {
         UserDto user = userService.getUserById(id);
         userService.deleteUser(id);
         return new ResponseEntity<>(mapToResponse(user), HttpStatus.OK);

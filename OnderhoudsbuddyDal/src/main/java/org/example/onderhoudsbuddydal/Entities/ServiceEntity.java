@@ -4,7 +4,6 @@ import jakarta.persistence.*;
 import lombok.*;
 
 import java.util.Date;
-import java.util.UUID;
 
 @Entity
 @Table(name = "service")
@@ -15,9 +14,9 @@ import java.util.UUID;
 @Builder
 public class ServiceEntity {
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(length = 100, nullable = false)
-    private UUID serviceId;
+    private Integer serviceId;
 
     @ManyToOne
     @JoinColumn(name ="car_id", nullable = false)

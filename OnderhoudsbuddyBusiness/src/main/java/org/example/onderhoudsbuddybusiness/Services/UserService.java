@@ -8,7 +8,6 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
-import java.util.UUID;
 import java.util.stream.Collectors;
 
 @Service
@@ -28,7 +27,7 @@ public class UserService implements IUserService {
                 .collect(Collectors.toList());
     }
 
-    public UserDto getUserById(UUID id) {
+    public UserDto getUserById(Integer id) {
         return userRepository.findById(id)
                 .map(this::mapToDto)
                 .orElseThrow(() -> new RuntimeException("User not found"));
@@ -55,7 +54,7 @@ public class UserService implements IUserService {
     }
 
 
-    public Boolean deleteUser(UUID id) {
+    public Boolean deleteUser(Integer id) {
         if (!userRepository.existsById(id)) {
             return false;
         }

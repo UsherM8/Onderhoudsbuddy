@@ -16,9 +16,9 @@ import java.util.UUID;
 @Builder
 public class UserEntity {
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
-    @Column(length = 100, nullable = false)// Better for UUIDs
-    private UUID userId;
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(length = 100, nullable = false)
+    private Integer userId;
     @Column(length = 100, nullable = false)
     private String firstName;
     @Column(length = 100, nullable = false)

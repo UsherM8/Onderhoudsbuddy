@@ -15,9 +15,9 @@ import java.util.UUID;
 @Builder
 public class CarEntity {
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(length = 100, nullable = false)
-    private UUID carId;
+    private Integer carId;
     @Column(length = 100, nullable = false)
     private String licencePlate;
     @Column(length = 100, nullable = false)

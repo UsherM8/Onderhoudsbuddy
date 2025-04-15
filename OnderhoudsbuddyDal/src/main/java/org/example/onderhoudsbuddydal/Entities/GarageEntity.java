@@ -14,8 +14,8 @@ import java.util.UUID;
 @Builder
 public class GarageEntity {
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
-    private UUID garageId;
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Integer garageId;
 
     @Column(length = 100, nullable = false)
     private String name;

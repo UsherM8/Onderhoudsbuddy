@@ -4,12 +4,11 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 
 import java.util.Date;
-import java.util.UUID;
 
 @Data
 @AllArgsConstructor
 public class UserResponse {
-    private UUID userId;
+    private Integer userId;
     private String firstName;
     private String lastName;
     private Date birthDate;
