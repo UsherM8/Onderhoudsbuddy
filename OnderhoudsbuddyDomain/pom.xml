@@ -117,6 +117,7 @@
                             <addGeneratedAnnotation>true</addGeneratedAnnotation>
                             <disableDatesInGeneratedAnnotation>true</disableDatesInGeneratedAnnotation>
                         </configuration>
+                        <phase>none</phase>
                     </execution>
                 </executions>
             </plugin>
