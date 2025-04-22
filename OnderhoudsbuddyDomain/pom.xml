@@ -113,9 +113,6 @@
                             <schemaPaths>
                                 <param>src/main/resources/graphql-client</param>
                             </schemaPaths>
-                            <packageName>org.example.onderhoudsbuddydomain.codegen</packageName>
-                            <addGeneratedAnnotation>true</addGeneratedAnnotation>
-                            <disableDatesInGeneratedAnnotation>true</disableDatesInGeneratedAnnotation>
                         </configuration>
                     </execution>
                 </executions>
