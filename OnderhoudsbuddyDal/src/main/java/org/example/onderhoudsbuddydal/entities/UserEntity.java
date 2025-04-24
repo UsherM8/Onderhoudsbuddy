@@ -30,5 +30,4 @@ public class UserEntity {
     @Column(length = 100, nullable = true)
     private String type;
 
-    // Geen directe relatie met auto's meer
 }
