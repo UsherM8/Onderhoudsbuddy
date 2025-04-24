@@ -36,8 +36,6 @@
         <module>OnderhoudsbuddyWeb</module>
     </modules>
     <packaging>pom</packaging>
-
-
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>

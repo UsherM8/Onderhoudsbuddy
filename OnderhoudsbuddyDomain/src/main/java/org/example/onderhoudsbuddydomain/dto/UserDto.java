@@ -1,4 +1,4 @@
-package org.example.onderhoudsbuddydomain.Dto;
+package org.example.onderhoudsbuddydomain.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

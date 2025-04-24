@@ -38,7 +38,6 @@
             <artifactId>OnderhoudsbuddyDomain</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
-
         <dependency>
             <groupId>org.example</groupId>
             <artifactId>OnderhoudsbuddyDal</artifactId>

@@ -1,9 +1,9 @@
-package org.example.onderhoudsbuddybusiness.Services;
+package org.example.onderhoudsbuddybusiness.services;
 
-import org.example.onderhoudsbuddydal.Entities.UserEntity;
-import org.example.onderhoudsbuddydal.Repositories.UserRepository;
-import org.example.onderhoudsbuddydomain.Dto.UserDto;
-import org.example.onderhoudsbuddydomain.ServiceInterfaces.IUserService;
+import org.example.onderhoudsbuddydal.entities.UserEntity;
+import org.example.onderhoudsbuddydal.repositories.UserRepository;
+import org.example.onderhoudsbuddydomain.dto.UserDto;
+import org.example.onderhoudsbuddydomain.serviceInterfaces.IUserService;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 

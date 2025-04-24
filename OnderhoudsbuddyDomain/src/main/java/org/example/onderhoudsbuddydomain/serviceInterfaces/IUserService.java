@@ -1,8 +1,7 @@
-package org.example.onderhoudsbuddydomain.ServiceInterfaces;
+package org.example.onderhoudsbuddydomain.serviceInterfaces;
 
-import org.example.onderhoudsbuddydomain.Dto.UserDto;
+import org.example.onderhoudsbuddydomain.dto.UserDto;
 import java.util.List;
-import java.util.UUID;
 
 public interface IUserService {
     List<UserDto> getAllUsers();

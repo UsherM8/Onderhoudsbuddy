@@ -13,7 +13,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
         "org.example.onderhoudsbuddydomain",
         "org.example.onderhoudsbuddyweb"
 })
-@EnableJpaRepositories(basePackages = "org.example.onderhoudsbuddydal.Repositories")
+@EnableJpaRepositories(basePackages = "org.example.onderhoudsbuddydal.repositories")
 @EntityScan(basePackages = "org.example.onderhoudsbuddydal.Entities")
 public class OnderhoudsbuddyWebApplication {
 

@@ -1,11 +1,9 @@
-package org.example.onderhoudsbuddydal.Entities;
+package org.example.onderhoudsbuddydal.entities;
 
 import jakarta.persistence.*;
 import lombok.*;
 
 import java.util.Date;
-import java.util.List;
-import java.util.UUID;
 
 @Entity
 @Table(name = "user")
@@ -32,11 +30,5 @@ public class UserEntity {
     @Column(length = 100, nullable = true)
     private String type;
 
-    @ManyToMany
-    @JoinTable(
-            name = "user_car",
-            joinColumns = @JoinColumn(name ="user_id"),
-            inverseJoinColumns = @JoinColumn(name = "car_id")
-    )
-    private List<CarEntity> car;
+    // Geen directe relatie met auto's meer
 }

@@ -1,13 +1,11 @@
 package org.example.onderhoudsbuddyweb.Controllers;
 
-import org.aspectj.weaver.ast.Var;
-import org.example.onderhoudsbuddydomain.Dto.UserDto;
-import org.example.onderhoudsbuddydomain.ServiceInterfaces.IUserService;
+import org.example.onderhoudsbuddydomain.dto.UserDto;
+import org.example.onderhoudsbuddydomain.serviceInterfaces.IUserService;
 import org.example.onderhoudsbuddyweb.Models.Requests.CreateUserRequest;
 import org.example.onderhoudsbuddyweb.Models.Responses.UserResponse;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
