@@ -1,0 +1,12 @@
+C:\S3\Individueel\usherindividueels3\Onderhoudsbuddy\OnderhoudsbuddyDotnet\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\S3\Individueel\usherindividueels3\Onderhoudsbuddy\OnderhoudsbuddyDotnet\Domain\bin\Debug\net8.0\Domain.dll
+C:\S3\Individueel\usherindividueels3\Onderhoudsbuddy\OnderhoudsbuddyDotnet\Domain\bin\Debug\net8.0\Domain.pdb
+C:\S3\Individueel\usherindividueels3\Onderhoudsbuddy\OnderhoudsbuddyDotnet\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\S3\Individueel\usherindividueels3\Onderhoudsbuddy\OnderhoudsbuddyDotnet\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\S3\Individueel\usherindividueels3\Onderhoudsbuddy\OnderhoudsbuddyDotnet\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\S3\Individueel\usherindividueels3\Onderhoudsbuddy\OnderhoudsbuddyDotnet\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\S3\Individueel\usherindividueels3\Onderhoudsbuddy\OnderhoudsbuddyDotnet\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\S3\Individueel\usherindividueels3\Onderhoudsbuddy\OnderhoudsbuddyDotnet\Domain\obj\Debug\net8.0\Domain.dll
+C:\S3\Individueel\usherindividueels3\Onderhoudsbuddy\OnderhoudsbuddyDotnet\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\S3\Individueel\usherindividueels3\Onderhoudsbuddy\OnderhoudsbuddyDotnet\Domain\obj\Debug\net8.0\Domain.pdb
+C:\S3\Individueel\usherindividueels3\Onderhoudsbuddy\OnderhoudsbuddyDotnet\Domain\obj\Debug\net8.0\ref\Domain.dll

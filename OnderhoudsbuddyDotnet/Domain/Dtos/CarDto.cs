@@ -1,4 +1,4 @@
-﻿namespace Domain;
+﻿namespace Domain.Dtos;
 
 public class CarDto
 {

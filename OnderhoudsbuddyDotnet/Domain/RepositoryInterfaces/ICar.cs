@@ -1,4 +1,6 @@
-﻿namespace Domain.RepositoryInterfaces;
+﻿using Domain.Dtos;
+
+namespace Domain.RepositoryInterfaces;
 
 public interface ICar
 {
