@@ -15,7 +15,56 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4741949a-0802-4516-b20e-d0b343835fb7" name="Changes" comment="" />
+    <list default="true" id="4741949a-0802-4516-b20e-d0b343835fb7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Domain/RepositoryInterfaces/ICar.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnderhoudsbuddyDotnet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OnderhoudsbuddyDotnet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Business.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Business/Business.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/obj/Business.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Business/obj/Business.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/obj/Debug/net8.0/Business.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Business/obj/Debug/net8.0/Business.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/obj/Debug/net8.0/Business.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Business/obj/Debug/net8.0/Business.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Business/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Business/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Business/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Business/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Business/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dal/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Dal/Class1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dal/Dal.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Dal/Dal.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dal/obj/Dal.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Dal/obj/Dal.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dal/obj/Debug/net8.0/Dal.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Dal/obj/Debug/net8.0/Dal.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dal/obj/Debug/net8.0/Dal.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Dal/obj/Debug/net8.0/Dal.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dal/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Dal/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dal/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Dal/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dal/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Dal/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dal/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Dal/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dal/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Dal/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Dtos/CarDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/obj/Debug/net8.0/Models.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/obj/Debug/net8.0/Models.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/obj/Debug/net8.0/Models.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Models/obj/Debug/net8.0/Models.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Models/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Models/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnderhoudsbuddyDotnet.sln" beforeDir="false" afterPath="$PROJECT_DIR$/OnderhoudsbuddyDotnet.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnderhoudsbuddyDotnet/obj/Debug/net8.0/OnderhoudsbuddyDotnet.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OnderhoudsbuddyDotnet/obj/Debug/net8.0/OnderhoudsbuddyDotnet.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnderhoudsbuddyDotnet/obj/Debug/net8.0/OnderhoudsbuddyDotnet.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnderhoudsbuddyDotnet/obj/Debug/net8.0/OnderhoudsbuddyDotnet.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnderhoudsbuddyDotnet/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/OnderhoudsbuddyDotnet/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnderhoudsbuddyWeb/OnderhoudsbuddyWeb.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/OnderhoudsbuddyWeb/OnderhoudsbuddyWeb.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnderhoudsbuddyWeb/obj/Debug/net8.0/OnderhoudsbuddyWeb.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OnderhoudsbuddyWeb/obj/Debug/net8.0/OnderhoudsbuddyWeb.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnderhoudsbuddyWeb/obj/Debug/net8.0/OnderhoudsbuddyWeb.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnderhoudsbuddyWeb/obj/Debug/net8.0/OnderhoudsbuddyWeb.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnderhoudsbuddyWeb/obj/Debug/net8.0/OnderhoudsbuddyWeb.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnderhoudsbuddyWeb/obj/Debug/net8.0/OnderhoudsbuddyWeb.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnderhoudsbuddyWeb/obj/OnderhoudsbuddyWeb.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnderhoudsbuddyWeb/obj/OnderhoudsbuddyWeb.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnderhoudsbuddyWeb/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnderhoudsbuddyWeb/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnderhoudsbuddyWeb/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnderhoudsbuddyWeb/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnderhoudsbuddyWeb/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnderhoudsbuddyWeb/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnderhoudsbuddyWeb/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/OnderhoudsbuddyWeb/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnderhoudsbuddyWeb/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/OnderhoudsbuddyWeb/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTests/obj/Debug/net8.0/UnitTests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTests/obj/Debug/net8.0/UnitTests.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTests/obj/Debug/net8.0/UnitTests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTests/obj/Debug/net8.0/UnitTests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTests/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTests/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTests/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,28 +73,35 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///AIAssistantSnippet." root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///AIAssistantSnippet." root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///AIAssistantSnippet." root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///AIAssistantSnippet." root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/Dtos/CarDto.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2wZvToOySWNxS4vqy3eknPwtj7g" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Login",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Login&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.OnderhoudsbuddyDotnet: IIS Express">
     <configuration name="OnderhoudsbuddyDotnet: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/OnderhoudsbuddyDotnet/OnderhoudsbuddyDotnet.csproj" />
@@ -191,7 +247,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746261920261</updated>
-      <workItem from="1746261921574" duration="2004000" />
+      <workItem from="1746261921574" duration="2950000" />
     </task>
     <servers />
   </component>

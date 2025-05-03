@@ -1,7 +1,5 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnderhoudsbuddyDotnet", "OnderhoudsbuddyDotnet\OnderhoudsbuddyDotnet.csproj", "{368373DC-5493-4C2C-8E18-BA7B491AAF56}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnderhoudsbuddyWeb", "OnderhoudsbuddyWeb\OnderhoudsbuddyWeb.csproj", "{C32E42D7-9719-49D6-ACA2-9D38620EAB9B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{7727111E-C18B-4274-B22B-DFD93B565FB5}"
@@ -20,10 +18,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{368373DC-5493-4C2C-8E18-BA7B491AAF56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{368373DC-5493-4C2C-8E18-BA7B491AAF56}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{368373DC-5493-4C2C-8E18-BA7B491AAF56}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{368373DC-5493-4C2C-8E18-BA7B491AAF56}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C32E42D7-9719-49D6-ACA2-9D38620EAB9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C32E42D7-9719-49D6-ACA2-9D38620EAB9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C32E42D7-9719-49D6-ACA2-9D38620EAB9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
