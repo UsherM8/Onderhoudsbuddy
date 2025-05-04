@@ -1206,11 +1206,11 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "Domain": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "9.0.4",
+          "Microsoft.EntityFrameworkCore": "8.0.0",
           "Microsoft.EntityFrameworkCore.Abstractions": "9.0.4",
           "Microsoft.Extensions.Configuration.Json": "10.0.0-preview.3.25171.5",
           "Microsoft.Extensions.DependencyInjection": "10.0.0-preview.3.25171.5",
-          "Pomelo.EntityFrameworkCore.MySql": "8.0.3"
+          "Pomelo.EntityFrameworkCore.MySql": "8.0.0"
         },
         "compile": {
           "bin/placeholder/Dal.dll": {}

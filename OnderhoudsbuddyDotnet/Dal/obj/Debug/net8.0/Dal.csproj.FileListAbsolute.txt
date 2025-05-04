@@ -1,4 +1,5 @@
 C:\S3\Individueel\usherindividueels3\Onderhoudsbuddy\OnderhoudsbuddyDotnet\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\S3\Individueel\usherindividueels3\Onderhoudsbuddy\OnderhoudsbuddyDotnet\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
 C:\S3\Individueel\usherindividueels3\Onderhoudsbuddy\OnderhoudsbuddyDotnet\Dal\bin\Debug\net8.0\Dal.dll
 C:\S3\Individueel\usherindividueels3\Onderhoudsbuddy\OnderhoudsbuddyDotnet\Dal\bin\Debug\net8.0\Dal.pdb
 C:\S3\Individueel\usherindividueels3\Onderhoudsbuddy\OnderhoudsbuddyDotnet\Dal\bin\Debug\net8.0\Domain.dll
@@ -13,4 +14,5 @@ C:\S3\Individueel\usherindividueels3\Onderhoudsbuddy\OnderhoudsbuddyDotnet\Dal\o
 C:\S3\Individueel\usherindividueels3\Onderhoudsbuddy\OnderhoudsbuddyDotnet\Dal\obj\Debug\net8.0\Dal.dll
 C:\S3\Individueel\usherindividueels3\Onderhoudsbuddy\OnderhoudsbuddyDotnet\Dal\obj\Debug\net8.0\refint\Dal.dll
 C:\S3\Individueel\usherindividueels3\Onderhoudsbuddy\OnderhoudsbuddyDotnet\Dal\obj\Debug\net8.0\Dal.pdb
+C:\S3\Individueel\usherindividueels3\Onderhoudsbuddy\OnderhoudsbuddyDotnet\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
 C:\S3\Individueel\usherindividueels3\Onderhoudsbuddy\OnderhoudsbuddyDotnet\Dal\obj\Debug\net8.0\ref\Dal.dll
