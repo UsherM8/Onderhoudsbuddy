@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - Car
+      - Login
   pull_request:
     branches:
       - main
